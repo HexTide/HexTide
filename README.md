@@ -44,7 +44,17 @@ Here you’ll find my most exciting and cutting-edge work, alongside open-source
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HexTide&label=Visitors&color=00ff00&style=flat" />
+  <img src="https://count.getloli.com/get/@HexTide?theme=rule34" />
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:kabalinden@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -66,9 +76,5 @@ If you like my work, consider supporting me! 🙏
 </p>
 
 ---
-
-## 📫 How to Reach Me
-
-- GitHub → [HexTide](https://github.com/HexTide)
 
 ⭐ **If you enjoy my projects, don’t forget to leave a star!**
