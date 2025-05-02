@@ -1,5 +1,9 @@
 
-# 👋 Hi there, I’m Aytuğ (HexTide) 🚀
+# ✨ HexTide
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HexTide-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 Welcome to my GitHub profile! 🌟  
 I'm a passionate developer working on **AI 🤖**, **automation ⚙️**, and **experimental projects 🚀**.  
@@ -21,18 +25,26 @@ Here you’ll find my most exciting and cutting-edge work, alongside open-source
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Visitors
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HexTide&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HexTide&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HexTide&label=Visitors&color=00ff00&style=flat" />
 </p>
 
 ---
@@ -58,6 +70,5 @@ If you like my work, consider supporting me! 🙏
 ## 📫 How to Reach Me
 
 - GitHub → [HexTide](https://github.com/HexTide)
-- (Optional) Add LinkedIn, portfolio, or email here
 
 ⭐ **If you enjoy my projects, don’t forget to leave a star!**
