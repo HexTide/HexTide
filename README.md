@@ -61,8 +61,19 @@ Here you’ll find my most exciting and cutting-edge work, alongside open-source
 
 ## 🌟 Featured Project
 
-🔥 **[ChatGPT TinderBot Ultimate](https://github.com/HexTide/chatgpt-tinderbot-ultimate)** →  
-An advanced, multi-language Tinder automation bot powered by ChatGPT.
+### 🧠 HEX Ecosystem Projects
+
+- 🧠 [**HexMind**](https://github.com/HexTide/hexmind) — *AI-enhanced personal growth system focused on mental clarity and evolution.*
+- 🤖 [**HexBot**](https://github.com/HexTide/hexbot) — *Smart assistant for automation, tasks, and knowledge navigation.*
+- 📚 [**HexLib**](https://github.com/HexTide/hexlib) — *A self-growing personal knowledgebase with structured memory logic.*
+- 🧱 [**HexCore**](https://github.com/HexTide/hexcore) — *Foundational brain & configuration layer of the entire HEX framework.*
+- 🌱 [**HexRoot**](https://github.com/HexTide/hexroot) — *Core identity module that governs AI behavior and personality.*
+- ⚡ [**HexDropper Lite**](https://github.com/HexTide/hexdropper-lite) — *Tiny but powerful affiliate bot for link deployment and automation.*
+- 🌍 [**HexLocale**](https://github.com/HexTide/hexlocale) — *Multi-language, location-aware Telegram interaction engine.*
+- 🔐 [**HexSecure**](https://github.com/HexTide/hexsecure) — *Local device watcher with real-time alerting and anti-intrusion.*
+- 🛒 [**HexMarketBot**](https://github.com/HexTide/hexmarketbot) — *eCommerce bot for Telegram with stock tracking and balance system.*
+
+
 
 ---
 
